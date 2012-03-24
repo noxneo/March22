@@ -20,11 +20,11 @@
 		7A5ED0F2151E400600F2F372 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7A5ED0F4151E400600F2F372 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7A5ED0F6151E400600F2F372 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		7A5ED0FA151E400600F2F372 /* March22-Info.plist */ = {isa = PBXFileReference; path = "March22-Info.plist"; sourceTree = "<group>"; };
+		7A5ED0FA151E400600F2F372 /* March22-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "March22-Info.plist"; sourceTree = "<group>"; };
 		7A5ED0FC151E400600F2F372 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7A5ED0FE151E400600F2F372 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7A5ED100151E400600F2F372 /* March22-Prefix.pch */ = {isa = PBXFileReference; path = "March22-Prefix.pch"; sourceTree = "<group>"; };
-		7A5ED101151E400600F2F372 /* March22AppDelegate.h */ = {isa = PBXFileReference; path = March22AppDelegate.h; sourceTree = "<group>"; };
+		7A5ED100151E400600F2F372 /* March22-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "March22-Prefix.pch"; sourceTree = "<group>"; };
+		7A5ED101151E400600F2F372 /* March22AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = March22AppDelegate.h; sourceTree = "<group>"; };
 		7A5ED102151E400600F2F372 /* March22AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = March22AppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
